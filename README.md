@@ -30,6 +30,7 @@ contract MyToken {
     }
 }
 }
+
 To compile the code, click on the "Sol\idity Compiler" tab in the left-hand sidebar. 
 Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile myToken.sol" button.
 
@@ -41,6 +42,6 @@ Same goes to burning tokens just  Copy and paste your "Acount" to the "Address" 
 If you want to see the "Balances" just Copy and paste your "Acount" to the "Address" seen in the "Balances" and click on the "Call" button to see your balances. 
 Finally, if you want to see the "totalSupply" just click on the "totalSupply" button.
 
-#AUTHORS
+# AUTHORS
 Keana Aliza C. Perez
 Student of National Trachers College - BSIT 2.2
